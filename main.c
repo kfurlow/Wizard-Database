@@ -1,8 +1,3 @@
-//Kanin Furlow
-//Dr. Steinberg
-//COP3223C Section 1
-//Large Program 4
-
 #include <ctype.h>
 #include <stdbool.h>
 #include <stdint.h>
