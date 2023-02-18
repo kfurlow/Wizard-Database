@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669866609 source:c:\users\kanin\documents\cop3223c\largeprogram4_furlow_kanin\main.c
+	<ctype.h>
+	<stdbool.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
